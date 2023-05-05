@@ -1,0 +1,22 @@
+@media (max-width: 991px) {
+  .yahia {
+    transform: translate(10%, 0%);
+    text-align: center;
+  }
+  .lan {
+    transform: translate(10%, 20%);
+    text-align: center;
+    width: 300px;
+    height: 350px;
+  }
+  i {
+    display: block;
+    transform: translate(100%, -340%);
+    text-align: center;
+    font-size: 700%;
+    color: red;
+  }
+  h1 {
+    text-align: center;
+  }
+}
